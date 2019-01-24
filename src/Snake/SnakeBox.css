@@ -1,0 +1,19 @@
+.box {
+    width: 11px;
+    height: 11px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-right: 2px;
+}
+
+.snakeElement {
+    background-color: black;
+}
+
+.food {
+    background-color: burlywood;
+}
+
+.snakeHead {
+    background-color: red;
+}

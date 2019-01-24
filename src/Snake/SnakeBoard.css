@@ -1,0 +1,24 @@
+.snakeBoard {
+    width: 750px;
+    height: 750px;
+    margin: auto;
+}
+
+.startButton {
+    margin-left: 48%;
+    margin-top: 20%;
+    height: 60px;
+    width: 140px;
+    font-size: 2em;
+}
+
+.score {
+    font-size: 3em;
+    right: 300px;
+    position: absolute;
+    top: 300px;
+}
+
+.finalScoreBoard {
+    margin-left: 46%;
+}
